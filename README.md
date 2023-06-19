@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @SodaSkunk
-- 👀 I’m interested in skunks and catgirls
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on silly websites :-)
-- 📫 How to reach me: call me xoxo
+Sup, I'm an anarchist furry transboy being taught by anarchist furry transgirls
+
+I make dumb websites for me and my friends and they are all kinda broken :v 
+
+I'm kind of bad at this still but I'm working hard to get gud :3
+
+Stay smelly B-)
 
 <!---
 SodaSkunk/SodaSkunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
